@@ -1,0 +1,55 @@
+﻿  RandomForest.cpp
+d:\visual studio 2015\projects\randomforest\randomforest\gain.h(15): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\gain.h(27): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\gain.h(51): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\threshold.h(28): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\threshold.h(38): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\threshold.h(46): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\threshold.h(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio 2015\projects\randomforest\randomforest\threshold.h(62): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\threshold.h(69): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\threshold.h(84): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\threshold.h(94): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\replace_unknowns.h(19): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\replace_unknowns.h(41): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\perform_id3.h(17): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\perform_id3.h(79): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\perform_id3.h(97): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\perform_id3.h(122): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\perform_id3.h(127): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\classify.h(15): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\classify.h(21): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\classify.h(44): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(58): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(60): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(86): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(124): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(125): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(153): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(168): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(177): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(179): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(194): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(196): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(217): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(226): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(228): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(231): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(235): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(241): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(251): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(253): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(266): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(294): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(303): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(306): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(323): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(326): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\randomforest.cpp(346): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2015\projects\randomforest\randomforest\threshold.h(76): warning C4715: 'threshold': not all control paths return a value
+d:\visual studio 2015\projects\randomforest\randomforest\replace_unknowns.h(66): warning C4715: 'mostCommonValueofAttribute': not all control paths return a value
+d:\visual studio 2015\projects\randomforest\randomforest\perform_id3.h(134): warning C4715: 'bestAttribute': not all control paths return a value
+d:\visual studio 2015\projects\randomforest\randomforest\classify.h(55): warning C4715: 'evaluate': not all control paths return a value
+  RandomForest.vcxproj -> D:\Visual Studio 2015\Projects\RandomForest\Debug\RandomForest.exe
+  RandomForest.vcxproj -> D:\Visual Studio 2015\Projects\RandomForest\Debug\RandomForest.pdb (Full PDB)
